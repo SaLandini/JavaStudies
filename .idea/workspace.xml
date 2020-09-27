@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2f3bf0f3-aef2-4362-97f8-0e9adad9f079" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1i1CrXImDpU844Y8fODf0TD6DpP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="H:\backup\ETEC\ETEC - DS\Estudo de Java\" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f3bf0f3-aef2-4362-97f8-0e9adad9f079" name="Default Changelist" comment="" />
+      <created>1601065915654</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601065915654</updated>
+      <workItem from="1601065916676" duration="8072000" />
+      <workItem from="1601083674300" duration="2488000" />
+      <workItem from="1601136902089" duration="1529000" />
+      <workItem from="1601229791438" duration="1364000" />
+      <workItem from="1601231189108" duration="312000" />
+      <workItem from="1601233856292" duration="2296000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="1205" y="345" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1601084786151">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1205" y="345" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601084786151" />
+    <state x="461" y="185" key="SettingsEditor" timestamp="1601234177784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="185" key="SettingsEditor/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601234177784" />
+    <state x="0" y="0" width="1547" height="1066" key="dock-window-1" timestamp="1601084514051">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="0" y="0" width="1547" height="1066" key="dock-window-1/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601084514051" />
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup" timestamp="1601231020861">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="1103" y="240" width="672" height="678" key="search.everywhere.popup/0.0.1920.1080/1920.0.1920.1080@0.0.1920.1080" timestamp="1601231020861" />
+  </component>
+</project>
